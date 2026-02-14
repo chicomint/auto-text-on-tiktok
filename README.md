@@ -17,8 +17,6 @@
 
 <div class="section">
 <h2>Configuration</h2>
-<p>Edit the following variables inside the script:</p>
-
 <pre>
 username = "username"
 message_text = "text"
@@ -43,5 +41,6 @@ pip install pyscreeze pillow opencv-python
 
 <div class="section">
 <h2> Run the Script</h2>
+
 
 
