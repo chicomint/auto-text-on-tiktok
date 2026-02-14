@@ -1,4 +1,4 @@
-<h1>AutoTikTokMarco</h1>
+<h1>auto-text-on-tiktok</h1>
 
 
 <div class="section">
@@ -11,7 +11,6 @@
 <h3> Make sure:</h3>
 <ul>
     <li>The screenshots match your screen resolution.</li>
-    <li>Browser zoom is set consistently (100% recommended).</li>
     <li>TikTok is in light/dark mode consistently (match the screenshot style).</li>
 </ul>
 </div>
@@ -44,4 +43,5 @@ pip install pyscreeze pillow opencv-python
 
 <div class="section">
 <h2> Run the Script</h2>
+
 
