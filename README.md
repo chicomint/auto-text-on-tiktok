@@ -1,26 +1,47 @@
--Required Files
-
-M.png → Screenshot of the Message button
-
-T.png → Screenshot of the Text input box
-
--Make sure:
-
-The screenshots match your screen resolution.
-
-Browser zoom is set consistently (100% recommended).
-
-TikTok is in light/dark mode consistently (match the screenshot style).
+<h1>AutoTikTokMarco</h1>
 
 
--Configuration
+<div class="section">
+<h2>Required Files</h2>
+<ul>
+    <li><strong>M.png</strong> → Screenshot of the Message button</li>
+    <li><strong>T.png</strong> → Screenshot of the Text input box</li>
+</ul>
+
+<h3> Make sure:</h3>
+<ul>
+    <li>The screenshots match your screen resolution.</li>
+    <li>Browser zoom is set consistently (100% recommended).</li>
+    <li>TikTok is in light/dark mode consistently (match the screenshot style).</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Configuration</h2>
+<p>Edit the following variables inside the script:</p>
+
+<pre>
 username = "username"
 message_text = "text"
-on the code 
+</pre>
 
+<ul>
+    <li><code>username</code> → TikTok username (without @)</li>
+    <li><code>message_text</code> → Message you want to send</li>
+</ul>
+</div>
 
-install these
+<div class="section">
+<h2>Installation</h2>
+
+<p>Install required Python packages:</p>
+
+<pre>
 pip install pyautogui pyperclip
 pip install pyscreeze pillow opencv-python
+</pre>
+</div>
 
-run the code!
+<div class="section">
+<h2> Run the Script</h2>
+
