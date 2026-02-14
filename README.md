@@ -13,26 +13,19 @@
 <div class="section">
 <h2>Configuration</h2>
 <pre>
-username = "username"
-message_text = "text"
+username = "username"   //TikTok username (without @)
+message_text = "text"   //Message you want to send
 </pre>
-
-<ul>
-    <li><code>username</code> → TikTok username (without @)</li>
-    <li><code>message_text</code> → Message you want to send</li>
-</ul>
 </div>
 
 <div class="section">
 <h2>Installation</h2>
-
-<p>Install required Python packages:</p>
-
 <pre>
 pip install pyautogui pyperclip
 pip install pyscreeze pillow opencv-python
 </pre>
 </div>
+
 
 
 
