@@ -4,14 +4,13 @@
 <div class="section">
 <h2>Required Files</h2>
 <ul>
-    <li><strong>M.png</strong> → Screenshot of the Message button</li>
-    <li><strong>T.png</strong> → Screenshot of the Text input box</li>
+    <li><strong>M.png</strong>  Screenshot of the Message button</li>
+    <li><strong>T.png</strong>  Screenshot of the Text input box</li>
 </ul>
 
 <h3> Make sure:</h3>
 <ul>
     <li>The screenshots match your screen resolution.</li>
-    <li>TikTok is in light/dark mode consistently (match the screenshot style).</li>
 </ul>
 </div>
 
@@ -39,8 +38,7 @@ pip install pyscreeze pillow opencv-python
 </pre>
 </div>
 
-<div class="section">
-<h2> Run the Script</h2>
+
 
 
 
