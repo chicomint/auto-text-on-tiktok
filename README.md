@@ -4,7 +4,7 @@
 <div class="section">
 <h2>Required Files</h2>
 <ul>
-    <li><strong>M.png</strong>  Screenshot of the Message button (only a part of Message button) u can watch an example "M.png"</li>
+    <li><strong>M.png</strong>  Screenshot of the Message button (only a part of Message button) u can watch an example on "M.png"</li>
     <li><strong>T.png</strong>  Screenshot of the Text input box  (only a part of Text input box) u can watch an example on "T.png"</li>
 </ul>
 
@@ -33,6 +33,7 @@ pip install pyautogui pyperclip
 pip install pyscreeze pillow opencv-python
 </pre>
 </div>
+
 
 
 
